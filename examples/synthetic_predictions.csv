@@ -1,0 +1,13 @@
+group,true_label,score_N,score_S,score_V
+alpha,N,0.8,0.1,0.1
+alpha,S,0.1,0.8,0.1
+alpha,S,0.6,0.3,0.1
+alpha,V,0.1,0.1,0.8
+beta,N,0.2,0.7,0.1
+beta,V,0.1,0.2,0.7
+gamma,N,0.6,0.3,0.1
+gamma,N,0.8,0.1,0.1
+gamma,V,0.1,0.1,0.8
+gamma,V,0.2,0.1,0.7
+delta,S,0.6,0.3,0.1
+delta,N,0.8,0.1,0.1

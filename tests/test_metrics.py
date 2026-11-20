@@ -1,6 +1,6 @@
 import unittest
 
-from metrics import confusion_matrix, summarize_confusion
+from poem_eval.metrics import confusion_matrix, summarize_confusion
 
 
 class ConfusionMatrixTests(unittest.TestCase):
